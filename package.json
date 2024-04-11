@@ -1,0 +1,20 @@
+{
+  "name": "trainerkellysnetwork",
+  "version": "0.0.1",
+  "description": "trainerkelly's network website",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Mulry",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "pg": "^8.11.3"
+  }
+}
